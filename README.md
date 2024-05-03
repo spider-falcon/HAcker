@@ -1,0 +1,2 @@
+# HAcker
+Some Javascript hacks
